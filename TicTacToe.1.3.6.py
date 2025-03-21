@@ -1,7 +1,7 @@
 # Tic Tac Toe | Version: 1.3.6
 # Most Complete Version
 # Move variables to global scope
-# Add 3 options to replay the game
+# Added 3 options to replay the game
 
 import random 
 import time
